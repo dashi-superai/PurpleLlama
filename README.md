@@ -50,6 +50,8 @@ As we outlined in Llama 3’s
 recommend that all inputs and outputs to the LLM be checked and filtered in
 accordance with content guidelines appropriate to the application.
 
+
+
 ### Llama Guard
 
 Llama Guard 3 consists of a series of high-performance input and output moderation models designed to support developers to detect various common types of violating content.
